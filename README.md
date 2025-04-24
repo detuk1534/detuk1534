@@ -1,4 +1,4 @@
-- 👋 Hi, "I'm @detuk1534, currently working as a private store manager, actively pursuing a career transition into data engineering through continuous learning and hands-on projects."
+- 👋 Hi, "I'm @detuk1534, currently working as a store manager, actively pursuing a career transition into data engineering through continuous learning and hands-on projects."
 - 👀 I’m passionate about becoming a Data Engineer
 - 🌱 I’m currently learning Python
 - 💞️ "I'm seeking opportunities to collaborate on small projects to enhance my skills gradually."
